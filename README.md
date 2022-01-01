@@ -8,7 +8,7 @@
       <a href="https://twitter.com/24_fauzan" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhzlf_" height="30" width="40" />
       </a>
-    <a href="https://linkedin.com/in/fauzan-ahmad-b08b20201" target="blank">
+    <a href="https://linkedin.com/in/dhiazulfa-maulana-bachtiar-51a2ab158" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiazulfa-maulana-bachtiar-51a2ab158" height="30" width="40" />
     </a>
 </p>
