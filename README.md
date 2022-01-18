@@ -5,7 +5,7 @@
 ## :rocket: Connect with me:
 <p>
     </a>
-      <a href="https://twitter.com/24_fauzan" target="blank">
+      <a href="https://twitter.com/dhzlf_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhzlf_" height="30" width="40" />
       </a>
     <a href="https://linkedin.com/in/dhiazulfa-maulana-bachtiar-51a2ab158" target="blank">
