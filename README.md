@@ -40,6 +40,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhiazulfa&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhiazulfa&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiazulfa&layout=compact)](https://github.com/dhiazulfa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiazulfa&layout=compact)](https://github.com/dhiazulfa/github-readme-stats) -->
