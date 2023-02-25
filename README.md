@@ -35,6 +35,9 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
     </a>
+    <a href="https://linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a>
 </p>
 
 
