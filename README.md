@@ -4,17 +4,13 @@
   A curious mind wandering between <b>code</b>, <b>data</b>, and <b>ideas</b> 🚀  
 </p>
 
-<p align="center">
-  <i>"Building things, breaking things, then building them better."</i>
-</p>
-
 ---
 
 ## 🧭 About Me
 - 🧠 Exploring: Data, AI, and system architecture
 - 💻 Currently working with: Web, backend ecosystem & AI
 - 🔍 Interested in: R&D, security, and how things *actually* work behind the scenes  
-- 🌌 Side quests: Space, post-rock, and photograph  
+- 🌌 Side quests: Space, post-rock, photograph & Dota 2 :))
 
 ---
 
@@ -51,5 +47,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — may your code compile on the first try ✨</i>
+  <i>Thanks for stopping by - may your code compile on the first try ✨</i>
 </p>
